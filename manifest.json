@@ -1,0 +1,22 @@
+{
+  "name": "tic tac toe",
+  "short_name": "ticTacToe",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "play ticTacToe vs your friends or the computer",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  },
+{
+  "src": "iconBig.png",
+  "type": "image/png",
+  "sizes": "512x512 192x192"
+  
+
+}],
+"theme_color": "white"
+ 
+}
